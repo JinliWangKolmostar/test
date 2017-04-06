@@ -10,4 +10,3 @@ one line
 
 secomd line
 
-third line
